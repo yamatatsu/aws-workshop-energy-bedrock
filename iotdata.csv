@@ -1,0 +1,1121 @@
+timestamp,refinery_area,sensor_id,sensor_type,sensor_reading,sensor_units,operational_status
+01/03/2022 12:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,12000,Barrels/Hour,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,120,Degrees Fahrenheit,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2000,Barrels/Hour,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,650,Degrees Fahrenheit,Alert
+01/03/2022 12:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,10000,Pounds/Hour,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,525,Cubic meters/Hour,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,840,RPM,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,125,Degrees Fahrenheit,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,130,Degrees Fahrenheit,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,350,Degrees Fahrenheit,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,12,MMBTU/Hour,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,60,Cubic Meters/Hour,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,15,MMBTU/Hour,Normal
+01/03/2022 12:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,40,Percent,High
+01/03/2022 12:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,12500,Barrels/Hour,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,122,Degrees Fahrenheit,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2100,Barrels/Hour,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,655,Degrees Fahrenheit,Alert
+01/03/2022 12:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,10500,Pounds/Hour,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,550,Cubic meters/Hour,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,850,RPM,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,127,Degrees Fahrenheit,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,133,Degrees Fahrenheit,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,355,Degrees Fahrenheit,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,14,MMBTU/Hour,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,65,Cubic Meters/Hour,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,17,MMBTU/Hour,Normal
+01/03/2022 12:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,45,Percent,High
+01/03/2022 12:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,13000,Barrels/Hour,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,125,Degrees Fahrenheit,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2300,Barrels/Hour,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,665,Degrees Fahrenheit,Alert
+01/03/2022 12:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,11500,Pounds/Hour,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,600,Cubic meters/Hour,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,870,RPM,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,133,Degrees Fahrenheit,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,139,Degrees Fahrenheit,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,365,Degrees Fahrenheit,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,18,MMBTU/Hour,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,75,Cubic Meters/Hour,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,21,MMBTU/Hour,Normal
+01/03/2022 12:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,55,Percent,High
+01/03/2022 12:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,13500,Barrels/Hour,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,127,Degrees Fahrenheit,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2200,Barrels/Hour,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,660,Degrees Fahrenheit,Alert
+01/03/2022 12:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,11000,Pounds/Hour,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,575,Cubic meters/Hour,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,860,RPM,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,130,Degrees Fahrenheit,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,136,Degrees Fahrenheit,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,360,Degrees Fahrenheit,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,16,MMBTU/Hour,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,70,Cubic Meters/Hour,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,19,MMBTU/Hour,Normal
+01/03/2022 12:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,50,Percent,High
+01/03/2022 13:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,14000,Barrels/Hour,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,130,Degrees Fahrenheit,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2400,Barrels/Hour,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,670,Degrees Fahrenheit,Alert
+01/03/2022 13:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,12000,Pounds/Hour,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,625,Cubic meters/Hour,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,880,RPM,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,135,Degrees Fahrenheit,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,142,Degrees Fahrenheit,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,370,Degrees Fahrenheit,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,20,MMBTU/Hour,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,80,Cubic Meters/Hour,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,23,MMBTU/Hour,Normal
+01/03/2022 13:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,60,Percent,High
+01/03/2022 13:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,14500,Barrels/Hour,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,132,Degrees Fahrenheit,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2500,Barrels/Hour,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,675,Degrees Fahrenheit,Alert
+01/03/2022 13:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,12500,Pounds/Hour,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,650,Cubic meters/Hour,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,890,RPM,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,138,Degrees Fahrenheit,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,145,Degrees Fahrenheit,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,375,Degrees Fahrenheit,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,22,MMBTU/Hour,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,85,Cubic Meters/Hour,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,25,MMBTU/Hour,Normal
+01/03/2022 13:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,65,Percent,High
+01/03/2022 13:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,15000,Barrels/Hour,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,135,Degrees Fahrenheit,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2600,Barrels/Hour,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,680,Degrees Fahrenheit,Alert
+01/03/2022 13:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,13000,Pounds/Hour,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,675,Cubic meters/Hour,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,900,RPM,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,141,Degrees Fahrenheit,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,148,Degrees Fahrenheit,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,380,Degrees Fahrenheit,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,24,MMBTU/Hour,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,90,Cubic Meters/Hour,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,27,MMBTU/Hour,Normal
+01/03/2022 13:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,70,Percent,High
+01/03/2022 13:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,15500,Barrels/Hour,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,137,Degrees Fahrenheit,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2700,Barrels/Hour,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,685,Degrees Fahrenheit,Alert
+01/03/2022 13:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,13500,Pounds/Hour,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,700,Cubic meters/Hour,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,910,RPM,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,144,Degrees Fahrenheit,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,151,Degrees Fahrenheit,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,385,Degrees Fahrenheit,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,26,MMBTU/Hour,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,95,Cubic Meters/Hour,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,29,MMBTU/Hour,Normal
+01/03/2022 13:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,75,Percent,High
+01/03/2022 14:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,16000,Barrels/Hour,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,140,Degrees Fahrenheit,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2800,Barrels/Hour,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,690,Degrees Fahrenheit,Alert
+01/03/2022 14:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,14000,Pounds/Hour,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,725,Cubic meters/Hour,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,920,RPM,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,147,Degrees Fahrenheit,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,154,Degrees Fahrenheit,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,390,Degrees Fahrenheit,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,28,MMBTU/Hour,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,100,Cubic Meters/Hour,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,31,MMBTU/Hour,Normal
+01/03/2022 14:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,80,Percent,High
+01/03/2022 14:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,16500,Barrels/Hour,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,143,Degrees Fahrenheit,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2900,Barrels/Hour,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,695,Degrees Fahrenheit,Alert
+01/03/2022 14:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,14500,Pounds/Hour,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,750,Cubic meters/Hour,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,930,RPM,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,150,Degrees Fahrenheit,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,157,Degrees Fahrenheit,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,395,Degrees Fahrenheit,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,30,MMBTU/Hour,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,105,Cubic Meters/Hour,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,33,MMBTU/Hour,Normal
+01/03/2022 14:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,85,Percent,High
+01/03/2022 14:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,17000,Barrels/Hour,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,146,Degrees Fahrenheit,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3000,Barrels/Hour,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,700,Degrees Fahrenheit,Alert
+01/03/2022 14:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,15000,Pounds/Hour,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,775,Cubic meters/Hour,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,940,RPM,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,153,Degrees Fahrenheit,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,160,Degrees Fahrenheit,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,400,Degrees Fahrenheit,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,32,MMBTU/Hour,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,110,Cubic Meters/Hour,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,35,MMBTU/Hour,Normal
+01/03/2022 14:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,90,Percent,High
+01/03/2022 14:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,17500,Barrels/Hour,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,149,Degrees Fahrenheit,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3100,Barrels/Hour,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,705,Degrees Fahrenheit,Alert
+01/03/2022 14:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,15500,Pounds/Hour,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,800,Cubic meters/Hour,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,950,RPM,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,156,Degrees Fahrenheit,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,163,Degrees Fahrenheit,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,405,Degrees Fahrenheit,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,34,MMBTU/Hour,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,115,Cubic Meters/Hour,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,37,MMBTU/Hour,Normal
+01/03/2022 14:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,95,Percent,High
+01/03/2022 15:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,18000,Barrels/Hour,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,152,Degrees Fahrenheit,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3200,Barrels/Hour,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,710,Degrees Fahrenheit,Alert
+01/03/2022 15:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,16000,Pounds/Hour,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,825,Cubic meters/Hour,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,960,RPM,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,159,Degrees Fahrenheit,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,166,Degrees Fahrenheit,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,410,Degrees Fahrenheit,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,36,MMBTU/Hour,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,120,Cubic Meters/Hour,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,39,MMBTU/Hour,Normal
+01/03/2022 15:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,100,Percent,High
+01/03/2022 15:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,18500,Barrels/Hour,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,155,Degrees Fahrenheit,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3300,Barrels/Hour,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,715,Degrees Fahrenheit,Alert
+01/03/2022 15:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,16500,Pounds/Hour,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,850,Cubic meters/Hour,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,970,RPM,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,162,Degrees Fahrenheit,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,169,Degrees Fahrenheit,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,415,Degrees Fahrenheit,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,38,MMBTU/Hour,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,125,Cubic Meters/Hour,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,41,MMBTU/Hour,Normal
+01/03/2022 15:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,105,Percent,High
+01/03/2022 15:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,19000,Barrels/Hour,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,158,Degrees Fahrenheit,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3400,Barrels/Hour,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,720,Degrees Fahrenheit,Alert
+01/03/2022 15:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,17000,Pounds/Hour,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,875,Cubic meters/Hour,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,980,RPM,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,165,Degrees Fahrenheit,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,172,Degrees Fahrenheit,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,420,Degrees Fahrenheit,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,40,MMBTU/Hour,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,130,Cubic Meters/Hour,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,43,MMBTU/Hour,Normal
+01/03/2022 15:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,110,Percent,High
+01/03/2022 15:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,19500,Barrels/Hour,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,161,Degrees Fahrenheit,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3500,Barrels/Hour,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,725,Degrees Fahrenheit,Alert
+01/03/2022 15:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,17500,Pounds/Hour,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,900,Cubic meters/Hour,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,990,RPM,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,168,Degrees Fahrenheit,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,175,Degrees Fahrenheit,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,425,Degrees Fahrenheit,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,42,MMBTU/Hour,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,135,Cubic Meters/Hour,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,45,MMBTU/Hour,Normal
+01/03/2022 15:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,115,Percent,High
+01/03/2022 16:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,20000,Barrels/Hour,High
+01/03/2022 16:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,164,Degrees Fahrenheit,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3600,Barrels/Hour,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,730,Degrees Fahrenheit,Alert
+01/03/2022 16:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,18000,Pounds/Hour,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,925,Cubic meters/Hour,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1000,RPM,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,171,Degrees Fahrenheit,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,178,Degrees Fahrenheit,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,430,Degrees Fahrenheit,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,44,MMBTU/Hour,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,140,Cubic Meters/Hour,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,47,MMBTU/Hour,Normal
+01/03/2022 16:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,120,Percent,High
+01/03/2022 16:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,20500,Barrels/Hour,High
+01/03/2022 16:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,167,Degrees Fahrenheit,Normal
+01/03/2022 16:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3700,Barrels/Hour,Normal
+01/03/2022 16:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,735,Degrees Fahrenheit,Alert
+01/03/2022 16:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,18500,Pounds/Hour,Normal
+01/03/2022 16:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,950,Cubic meters/Hour,High
+01/03/2022 16:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1010,RPM,High
+01/03/2022 16:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,174,Degrees Fahrenheit,Normal
+01/03/2022 16:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,181,Degrees Fahrenheit,Normal
+01/03/2022 16:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,435,Degrees Fahrenheit,Normal
+01/03/2022 16:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,46,MMBTU/Hour,Normal
+01/03/2022 16:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,145,Cubic Meters/Hour,Normal
+01/03/2022 16:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,49,MMBTU/Hour,Normal
+01/03/2022 16:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,125,Percent,High
+01/03/2022 16:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,21000,Barrels/Hour,High
+01/03/2022 16:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,170,Degrees Fahrenheit,High
+01/03/2022 16:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3800,Barrels/Hour,Normal
+01/03/2022 16:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,740,Degrees Fahrenheit,Alert
+01/03/2022 16:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,19000,Pounds/Hour,Normal
+01/03/2022 16:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,975,Cubic meters/Hour,High
+01/03/2022 16:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1020,RPM,High
+01/03/2022 16:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,177,Degrees Fahrenheit,High
+01/03/2022 16:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,184,Degrees Fahrenheit,Normal
+01/03/2022 16:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,440,Degrees Fahrenheit,Normal
+01/03/2022 16:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,48,MMBTU/Hour,Normal
+01/03/2022 16:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,150,Cubic Meters/Hour,Normal
+01/03/2022 16:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,51,MMBTU/Hour,Normal
+01/03/2022 16:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,130,Percent,High
+01/03/2022 16:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,21500,Barrels/Hour,High
+01/03/2022 16:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,176,Degrees Fahrenheit,High
+01/03/2022 16:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3750,Barrels/Hour,Normal
+01/03/2022 16:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,738,Degrees Fahrenheit,Normal
+01/03/2022 16:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,19300,Pounds/Hour,High
+01/03/2022 16:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,945,Cubic meters/Hour,Normal
+01/03/2022 16:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1040,RPM,High
+01/03/2022 16:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,180,Degrees Fahrenheit,High
+01/03/2022 16:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,179,Degrees Fahrenheit,Normal
+01/03/2022 16:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,447,Degrees Fahrenheit,High
+01/03/2022 16:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,44,MMBTU/Hour,Normal
+01/03/2022 16:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,140,Cubic Meters/Hour,Low
+01/03/2022 16:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,53,MMBTU/Hour,High
+01/03/2022 16:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,135,Percent,High
+01/03/2022 17:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,22000,Barrels/Hour,High
+01/03/2022 17:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,172,Degrees Fahrenheit,Normal
+01/03/2022 17:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3900,Barrels/Hour,High
+01/03/2022 17:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,742,Degrees Fahrenheit,Normal
+01/03/2022 17:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,19000,Pounds/Hour,Normal
+01/03/2022 17:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,965,Cubic meters/Hour,High
+01/03/2022 17:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1030,RPM,Normal
+01/03/2022 17:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,178,Degrees Fahrenheit,Normal
+01/03/2022 17:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,183,Degrees Fahrenheit,High
+01/03/2022 17:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,455,Degrees Fahrenheit,High
+01/03/2022 17:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,46,MMBTU/Hour,Normal
+01/03/2022 17:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,145,Cubic Meters/Hour,Normal
+01/03/2022 17:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,48,MMBTU/Hour,Low
+01/03/2022 17:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,125,Percent,Normal
+01/03/2022 17:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,22500,Barrels/Hour,High
+01/03/2022 17:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,175,Degrees Fahrenheit,High
+01/03/2022 17:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,4050,Barrels/Hour,High
+01/03/2022 17:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,748,Degrees Fahrenheit,High
+01/03/2022 17:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,18500,Pounds/Hour,Low
+01/03/2022 17:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,985,Cubic meters/Hour,High
+01/03/2022 17:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1020,RPM,Normal
+01/03/2022 17:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,174,Degrees Fahrenheit,Low
+01/03/2022 17:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,186,Degrees Fahrenheit,High
+01/03/2022 17:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,463,Degrees Fahrenheit,High
+01/03/2022 17:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,50,MMBTU/Hour,High
+01/03/2022 17:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,150,Cubic Meters/Hour,High
+01/03/2022 17:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,53,MMBTU/Hour,High
+01/03/2022 17:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,140,Percent,High
+01/03/2022 17:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,23000,Barrels/Hour,High
+01/03/2022 17:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,179,Degrees Fahrenheit,High
+01/03/2022 17:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,4100,Barrels/Hour,Normal
+01/03/2022 17:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,742,Degrees Fahrenheit,Normal
+01/03/2022 17:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,19300,Pounds/Hour,High
+01/03/2022 17:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,995,Cubic meters/Hour,High
+01/03/2022 17:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1015,RPM,Low
+01/03/2022 17:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,170,Degrees Fahrenheit,Low
+01/03/2022 17:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,179,Degrees Fahrenheit,Low
+01/03/2022 17:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,456,Degrees Fahrenheit,Normal
+01/03/2022 17:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,41,MMBTU/Hour,Low
+01/03/2022 17:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,140,Cubic Meters/Hour,Low
+01/03/2022 17:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,44,MMBTU/Hour,Low
+01/03/2022 17:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,120,Percent,Normal
+01/03/2022 17:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,21500,Barrels/Hour,Normal
+01/03/2022 17:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,181,Degrees Fahrenheit,High
+01/03/2022 17:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,4000,Barrels/Hour,Low
+01/03/2022 17:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,743,Degrees Fahrenheit,Normal
+01/03/2022 17:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,20500,Pounds/Hour,High
+01/03/2022 17:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,1075,Cubic meters/Hour,High
+01/03/2022 17:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1220,RPM,High
+01/03/2022 17:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,193,Degrees Fahrenheit,High
+01/03/2022 17:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,201,Degrees Fahrenheit,High
+01/03/2022 17:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,498,Degrees Fahrenheit,High
+01/03/2022 17:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,66,MMBTU/Hour,High
+01/03/2022 17:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,212,Cubic Meters/Hour,High
+01/03/2022 17:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,76,MMBTU/Hour,High
+01/03/2022 17:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,173,Percent,High
+01/03/2022 18:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,21000,Barrels/Hour,Normal
+01/03/2022 18:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,185,Degrees Fahrenheit,High
+01/03/2022 18:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,4100,Barrels/Hour,Normal
+01/03/2022 18:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,748,Degrees Fahrenheit,High
+01/03/2022 18:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,19500,Pounds/Hour,Normal
+01/03/2022 18:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,1125,Cubic meters/Hour,High
+01/03/2022 18:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1240,RPM,High
+01/03/2022 18:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,179,Degrees Fahrenheit,Normal
+01/03/2022 18:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,195,Degrees Fahrenheit,High
+01/03/2022 18:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,492,Degrees Fahrenheit,High
+01/03/2022 18:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,62,MMBTU/Hour,High
+01/03/2022 18:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,205,Cubic Meters/Hour,High
+01/03/2022 18:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,71,MMBTU/Hour,High
+01/03/2022 18:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,165,Percent,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,21500,Barrels/Hour,Normal
+01/03/2022 18:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,183,Degrees Fahrenheit,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,4200,Barrels/Hour,Normal
+01/03/2022 18:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,745,Degrees Fahrenheit,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,19800,Pounds/Hour,Normal
+01/03/2022 18:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,1100,Cubic meters/Hour,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1230,RPM,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,176,Degrees Fahrenheit,
+01/03/2022 18:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,192,Degrees Fahrenheit,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,490,Degrees Fahrenheit,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,60,MMBTU/Hour,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,200,Cubic Meters/Hour,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,69,MMBTU/Hour,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,160,Percent,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,176,Degrees Fahrenheit,Normal
+01/03/2022 18:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,192,Degrees Fahrenheit,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,490,Degrees Fahrenheit,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,60,MMBTU/Hour,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,200,Cubic Meters/Hour,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,69,MMBTU/Hour,High
+01/03/2022 18:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,160,Percent,High
+01/03/2022 18:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,20500,Barrels/Hour,Normal
+01/03/2022 18:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,180,Degrees Fahrenheit,Normal
+01/03/2022 18:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,4300,Barrels/Hour,High
+01/03/2022 18:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,742,Degrees Fahrenheit,Normal
+01/03/2022 18:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,20000,Pounds/Hour,High
+01/03/2022 18:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,1075,Cubic meters/Hour,High
+01/03/2022 18:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1220,RPM,High
+01/03/2022 18:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,173,Degrees Fahrenheit,Normal
+01/03/2022 18:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,189,Degrees Fahrenheit,High
+01/03/2022 18:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,485,Degrees Fahrenheit,High
+01/03/2022 18:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,58,MMBTU/Hour,High
+01/03/2022 18:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,195,Cubic Meters/Hour,High
+01/03/2022 18:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,67,MMBTU/Hour,High
+01/03/2022 18:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,155,Percent,High
+01/03/2022 18:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,19500,Barrels/Hour,Normal
+01/03/2022 18:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,177,Degrees Fahrenheit,Normal
+01/03/2022 18:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,4100,Barrels/Hour,Normal
+01/03/2022 18:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,740,Degrees Fahrenheit,Normal
+01/03/2022 18:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,19300,Pounds/Hour,Normal
+01/03/2022 18:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,1050,Cubic meters/Hour,High
+01/03/2022 18:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1200,RPM,Normal
+01/03/2022 18:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,170,Degrees Fahrenheit,Normal
+01/03/2022 18:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,186,Degrees Fahrenheit,High
+01/03/2022 18:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,480,Degrees Fahrenheit,Normal
+01/03/2022 18:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,56,MMBTU/Hour,High
+01/03/2022 18:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,190,Cubic Meters/Hour,High
+01/03/2022 18:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,65,MMBTU/Hour,High
+01/03/2022 18:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,150,Percent,High
+01/03/2022 19:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,19000,Barrels/Hour,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,174,Degrees Fahrenheit,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,4000,Barrels/Hour,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,738,Degrees Fahrenheit,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,18800,Pounds/Hour,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,1025,Cubic meters/Hour,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1180,RPM,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,167,Degrees Fahrenheit,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,183,Degrees Fahrenheit,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,475,Degrees Fahrenheit,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,54,MMBTU/Hour,High
+01/03/2022 19:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,185,Cubic Meters/Hour,High
+01/03/2022 19:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,63,MMBTU/Hour,Normal
+01/03/2022 19:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,145,Percent,High
+01/03/2022 19:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,18500,Barrels/Hour,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,171,Degrees Fahrenheit,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3900,Barrels/Hour,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,736,Degrees Fahrenheit,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,18300,Pounds/Hour,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,1000,Cubic meters/Hour,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1160,RPM,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,164,Degrees Fahrenheit,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,180,Degrees Fahrenheit,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,470,Degrees Fahrenheit,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,52,MMBTU/Hour,High
+01/03/2022 19:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,180,Cubic Meters/Hour,High
+01/03/2022 19:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,61,MMBTU/Hour,Normal
+01/03/2022 19:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,140,Percent,High
+01/03/2022 19:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,18000,Barrels/Hour,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,168,Degrees Fahrenheit,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3800,Barrels/Hour,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,734,Degrees Fahrenheit,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,17800,Pounds/Hour,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,975,Cubic meters/Hour,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1140,RPM,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,161,Degrees Fahrenheit,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,177,Degrees Fahrenheit,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,465,Degrees Fahrenheit,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,50,MMBTU/Hour,High
+01/03/2022 19:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,175,Cubic Meters/Hour,High
+01/03/2022 19:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,59,MMBTU/Hour,Normal
+01/03/2022 19:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,135,Percent,High
+01/03/2022 19:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,17500,Barrels/Hour,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,165,Degrees Fahrenheit,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3700,Barrels/Hour,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,732,Degrees Fahrenheit,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,17300,Pounds/Hour,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,950,Cubic meters/Hour,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1120,RPM,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,158,Degrees Fahrenheit,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,174,Degrees Fahrenheit,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,460,Degrees Fahrenheit,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,48,MMBTU/Hour,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,170,Cubic Meters/Hour,High
+01/03/2022 19:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,57,MMBTU/Hour,Normal
+01/03/2022 19:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,130,Percent,High
+01/03/2022 20:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,17000,Barrels/Hour,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,162,Degrees Fahrenheit,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3600,Barrels/Hour,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,730,Degrees Fahrenheit,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,16800,Pounds/Hour,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,925,Cubic meters/Hour,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1100,RPM,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,155,Degrees Fahrenheit,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,171,Degrees Fahrenheit,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,455,Degrees Fahrenheit,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,46,MMBTU/Hour,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,165,Cubic Meters/Hour,High
+01/03/2022 20:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,55,MMBTU/Hour,Normal
+01/03/2022 20:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,125,Percent,High
+01/03/2022 20:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,16500,Barrels/Hour,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,159,Degrees Fahrenheit,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3500,Barrels/Hour,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,728,Degrees Fahrenheit,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,16300,Pounds/Hour,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,900,Cubic meters/Hour,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1080,RPM,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,152,Degrees Fahrenheit,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,168,Degrees Fahrenheit,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,450,Degrees Fahrenheit,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,44,MMBTU/Hour,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,160,Cubic Meters/Hour,High
+01/03/2022 20:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,53,MMBTU/Hour,Normal
+01/03/2022 20:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,120,Percent,High
+01/03/2022 20:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,16000,Barrels/Hour,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,156,Degrees Fahrenheit,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3400,Barrels/Hour,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,726,Degrees Fahrenheit,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,15800,Pounds/Hour,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,875,Cubic meters/Hour,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1060,RPM,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,149,Degrees Fahrenheit,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,165,Degrees Fahrenheit,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,445,Degrees Fahrenheit,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,42,MMBTU/Hour,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,155,Cubic Meters/Hour,High
+01/03/2022 20:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,51,MMBTU/Hour,Normal
+01/03/2022 20:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,115,Percent,High
+01/03/2022 20:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,15500,Barrels/Hour,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,153,Degrees Fahrenheit,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3300,Barrels/Hour,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,724,Degrees Fahrenheit,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,15300,Pounds/Hour,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,850,Cubic meters/Hour,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1040,RPM,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,146,Degrees Fahrenheit,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,162,Degrees Fahrenheit,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,440,Degrees Fahrenheit,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,40,MMBTU/Hour,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,150,Cubic Meters/Hour,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,49,MMBTU/Hour,Normal
+01/03/2022 20:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,110,Percent,High
+01/03/2022 21:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,15000,Barrels/Hour,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,150,Degrees Fahrenheit,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3200,Barrels/Hour,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,722,Degrees Fahrenheit,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,14800,Pounds/Hour,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,825,Cubic meters/Hour,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1020,RPM,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,143,Degrees Fahrenheit,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,159,Degrees Fahrenheit,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,435,Degrees Fahrenheit,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,38,MMBTU/Hour,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,145,Cubic Meters/Hour,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,47,MMBTU/Hour,Normal
+01/03/2022 21:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,105,Percent,High
+01/03/2022 21:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,14500,Barrels/Hour,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,147,Degrees Fahrenheit,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,3100,Barrels/Hour,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,720,Degrees Fahrenheit,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,14300,Pounds/Hour,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,800,Cubic meters/Hour,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,1000,RPM,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,140,Degrees Fahrenheit,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,156,Degrees Fahrenheit,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,430,Degrees Fahrenheit,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,36,MMBTU/Hour,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,140,Cubic Meters/Hour,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,45,MMBTU/Hour,Normal
+01/03/2022 21:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,100,Percent,High
+01/03/2022 21:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,13500,Barrels/Hour,Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,141,Degrees Fahrenheit,Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2900,Barrels/Hour,Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,716,Degrees Fahrenheit,Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,13300,Pounds/Hour,Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,750,Cubic meters/Hour,Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,960,RPM, Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,134,Degrees Fahrenheit, Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,153,Degrees Fahrenheit,Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,425,Degrees Fahrenheit,Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,34,MMBTU/Hour,Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,135,Cubic Meters/Hour,Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,43,MMBTU/Hour, Normal
+01/03/2022 21:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,95,Percent, Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,13000,Barrels/Hour,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,138,Degrees Fahrenheit,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2800,Barrels/Hour,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,714,Degrees Fahrenheit,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,12800,Pounds/Hour,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,725,Cubic meters/Hour,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,940,RPM,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,131,Degrees Fahrenheit,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,150,Degrees Fahrenheit,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,420,Degrees Fahrenheit,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,32,MMBTU/Hour,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,130,Cubic Meters/Hour,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,41,MMBTU/Hour,Normal
+01/03/2022 22:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,90,Percent,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,12500,Barrels/Hour,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,135,Degrees Fahrenheit,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2700,Barrels/Hour,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,712,Degrees Fahrenheit,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,12300,Pounds/Hour,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,700,Cubic meters/Hour,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,920,RPM,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,128,Degrees Fahrenheit,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,147,Degrees Fahrenheit,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,415,Degrees Fahrenheit,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,30,MMBTU/Hour,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,125,Cubic Meters/Hour,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,39,MMBTU/Hour,Normal
+01/03/2022 22:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,85,Percent,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,12000,Barrels/Hour,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,132,Degrees Fahrenheit,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2600,Barrels/Hour,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,710,Degrees Fahrenheit,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,11800,Pounds/Hour,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,675,Cubic meters/Hour,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,900,RPM,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,125,Degrees Fahrenheit,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,144,Degrees Fahrenheit,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,410,Degrees Fahrenheit,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,28,MMBTU/Hour,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,120,Cubic Meters/Hour,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,37,MMBTU/Hour,Normal
+01/03/2022 22:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,80,Percent,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,11500,Barrels/Hour,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,129,Degrees Fahrenheit,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2500,Barrels/Hour,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,708,Degrees Fahrenheit,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,11300,Pounds/Hour,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,650,Cubic meters/Hour,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,880,RPM,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,122,Degrees Fahrenheit,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,141,Degrees Fahrenheit,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,405,Degrees Fahrenheit,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,26,MMBTU/Hour,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,115,Cubic Meters/Hour,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,35,MMBTU/Hour,Normal
+01/03/2022 22:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,75,Percent,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,11000,Barrels/Hour,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,126,Degrees Fahrenheit,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2400,Barrels/Hour,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,706,Degrees Fahrenheit,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,10800,Pounds/Hour,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,625,Cubic meters/Hour,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,860,RPM,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,119,Degrees Fahrenheit,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,138,Degrees Fahrenheit,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,400,Degrees Fahrenheit,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,24,MMBTU/Hour,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,110,Cubic Meters/Hour,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,33,MMBTU/Hour,Normal
+01/03/2022 23:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,70,Percent,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,10500,Barrels/Hour,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,123,Degrees Fahrenheit,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2300,Barrels/Hour,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,704,Degrees Fahrenheit,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,10300,Pounds/Hour,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,600,Cubic meters/Hour,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,840,RPM,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,116,Degrees Fahrenheit,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,135,Degrees Fahrenheit,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,395,Degrees Fahrenheit,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,22,MMBTU/Hour,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,105,Cubic Meters/Hour,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,31,MMBTU/Hour,Normal
+01/03/2022 23:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,65,Percent,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,10000,Barrels/Hour,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,120,Degrees Fahrenheit,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2200,Barrels/Hour,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,702,Degrees Fahrenheit,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,9800,Pounds/Hour,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,575,Cubic meters/Hour,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,820,RPM,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,113,Degrees Fahrenheit,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,132,Degrees Fahrenheit,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,390,Degrees Fahrenheit,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,20,MMBTU/Hour,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,100,Cubic Meters/Hour,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,29,MMBTU/Hour,Normal
+01/03/2022 23:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,60,Percent,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,9500,Barrels/Hour,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,117,Degrees Fahrenheit,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2100,Barrels/Hour,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,700,Degrees Fahrenheit,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,9300,Pounds/Hour,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,550,Cubic meters/Hour,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,800,RPM,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,110,Degrees Fahrenheit,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,129,Degrees Fahrenheit,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,385,Degrees Fahrenheit,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,18,MMBTU/Hour,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,95,Cubic Meters/Hour,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,27,MMBTU/Hour,Normal
+01/03/2022 23:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,55,Percent,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,9000,Barrels/Hour,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,114,Degrees Fahrenheit,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,2000,Barrels/Hour,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,698,Degrees Fahrenheit,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,8800,Pounds/Hour,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,525,Cubic meters/Hour,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,780,RPM,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,107,Degrees Fahrenheit,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,126,Degrees Fahrenheit,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,380,Degrees Fahrenheit,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,16,MMBTU/Hour,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,90,Cubic Meters/Hour,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,25,MMBTU/Hour,Normal
+02/03/2022 00:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,50,Percent,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,8500,Barrels/Hour,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,111,Degrees Fahrenheit,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,1900,Barrels/Hour,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,696,Degrees Fahrenheit,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,8300,Pounds/Hour,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,500,Cubic meters/Hour,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,760,RPM,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,104,Degrees Fahrenheit,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,123,Degrees Fahrenheit,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,375,Degrees Fahrenheit,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,14,MMBTU/Hour,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,85,Cubic Meters/Hour,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,23,MMBTU/Hour,Normal
+02/03/2022 00:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,45,Percent,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,8000,Barrels/Hour,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,108,Degrees Fahrenheit,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,1800,Barrels/Hour,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,694,Degrees Fahrenheit,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,7800,Pounds/Hour,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,475,Cubic meters/Hour,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,740,RPM,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,101,Degrees Fahrenheit,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,120,Degrees Fahrenheit,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,370,Degrees Fahrenheit,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,12,MMBTU/Hour,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,80,Cubic Meters/Hour,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,21,MMBTU/Hour,Normal
+02/03/2022 00:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,40,Percent,Normal
+02/03/2022 00:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,98,Degrees Fahrenheit,Normal
+02/03/2022 00:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,117,Degrees Fahrenheit,Normal
+02/03/2022 00:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,365,Degrees Fahrenheit,Normal
+02/03/2022 00:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,10,MMBTU/Hour,Normal
+02/03/2022 00:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,75,Cubic Meters/Hour,Normal
+02/03/2022 00:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,19,MMBTU/Hour,Normal
+02/03/2022 00:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,35,Percent,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,7000,Barrels/Hour,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,102,Degrees Fahrenheit,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,1600,Barrels/Hour,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,690,Degrees Fahrenheit,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,6800,Pounds/Hour,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,425,Cubic meters/Hour,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,700,RPM,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,95,Degrees Fahrenheit,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,114,Degrees Fahrenheit,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,360,Degrees Fahrenheit,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,8,MMBTU/Hour,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,70,Cubic Meters/Hour,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,17,MMBTU/Hour,Normal
+02/03/2022 01:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,30,Percent,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,6500,Barrels/Hour,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,99,Degrees Fahrenheit,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,1500,Barrels/Hour,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,688,Degrees Fahrenheit,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,6300,Pounds/Hour,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,400,Cubic meters/Hour,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,680,RPM,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,92,Degrees Fahrenheit,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,111,Degrees Fahrenheit,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,355,Degrees Fahrenheit,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,6,MMBTU/Hour,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,65,Cubic Meters/Hour,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,15,MMBTU/Hour,Normal
+02/03/2022 01:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,25,Percent,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,6000,Barrels/Hour,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,96,Degrees Fahrenheit,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,1400,Barrels/Hour,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,686,Degrees Fahrenheit,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,5800,Pounds/Hour,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,375,Cubic meters/Hour,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,660,RPM,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,89,Degrees Fahrenheit,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,108,Degrees Fahrenheit,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,350,Degrees Fahrenheit,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,4,MMBTU/Hour,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,60,Cubic Meters/Hour,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,13,MMBTU/Hour,Normal
+02/03/2022 01:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,20,Percent,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,5500,Barrels/Hour,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,93,Degrees Fahrenheit,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,1300,Barrels/Hour,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,684,Degrees Fahrenheit,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,5300,Pounds/Hour,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,350,Cubic meters/Hour,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,640,RPM,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,86,Degrees Fahrenheit,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,105,Degrees Fahrenheit,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,345,Degrees Fahrenheit,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,2,MMBTU/Hour,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,55,Cubic Meters/Hour,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,11,MMBTU/Hour,Normal
+02/03/2022 01:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,15,Percent,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,5000,Barrels/Hour,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,90,Degrees Fahrenheit,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,1200,Barrels/Hour,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,682,Degrees Fahrenheit,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,4800,Pounds/Hour,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,325,Cubic meters/Hour,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,620,RPM,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,83,Degrees Fahrenheit,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,102,Degrees Fahrenheit,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,340,Degrees Fahrenheit,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,50,Cubic Meters/Hour,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,9,MMBTU/Hour,Normal
+02/03/2022 02:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,10,Percent,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,4500,Barrels/Hour,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,87,Degrees Fahrenheit,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,1100,Barrels/Hour,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,680,Degrees Fahrenheit,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,4300,Pounds/Hour,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,300,Cubic meters/Hour,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,600,RPM,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,80,Degrees Fahrenheit,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,99,Degrees Fahrenheit,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,335,Degrees Fahrenheit,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,45,Cubic Meters/Hour,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,7,MMBTU/Hour,Normal
+02/03/2022 02:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,5,Percent,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,4300,Barrels/Hour,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,83,Degrees Fahrenheit,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,1050,Barrels/Hour,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,676,Degrees Fahrenheit,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,4100,Pounds/Hour,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,290,Cubic meters/Hour,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,580,RPM,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,78,Degrees Fahrenheit,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,96,Degrees Fahrenheit,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,330,Degrees Fahrenheit,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,40,Cubic Meters/Hour,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,6,MMBTU/Hour,Normal
+02/03/2022 02:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,3,Percent,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,4100,Barrels/Hour,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,80,Degrees Fahrenheit,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,1000,Barrels/Hour,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,674,Degrees Fahrenheit,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,3900,Pounds/Hour,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,280,Cubic meters/Hour,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,560,RPM,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,75,Degrees Fahrenheit,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,93,Degrees Fahrenheit,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,325,Degrees Fahrenheit,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,35,Cubic Meters/Hour,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,5,MMBTU/Hour,Normal
+02/03/2022 02:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,2,Percent,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,3900,Barrels/Hour,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,78,Degrees Fahrenheit,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,950,Barrels/Hour,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,670,Degrees Fahrenheit,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,3700,Pounds/Hour,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,270,Cubic meters/Hour,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,540,RPM,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,73,Degrees Fahrenheit,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,90,Degrees Fahrenheit,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,320,Degrees Fahrenheit,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,30,Cubic Meters/Hour,Low
+02/03/2022 03:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,4,MMBTU/Hour,Normal
+02/03/2022 03:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,1,Percent,Normal
+02/03/2022 03:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,3700,Barrels/Hour,Normal
+02/03/2022 03:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,75,Degrees Fahrenheit,Normal
+02/03/2022 03:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,900,Barrels/Hour,Low
+02/03/2022 03:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,668,Degrees Fahrenheit,Normal
+02/03/2022 03:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,3500,Pounds/Hour,Normal
+02/03/2022 03:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,260,Cubic meters/Hour,Low
+02/03/2022 03:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,520,RPM,Low
+02/03/2022 03:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,70,Degrees Fahrenheit,Low
+02/03/2022 03:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,87,Degrees Fahrenheit,Low
+02/03/2022 03:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,315,Degrees Fahrenheit,Normal
+02/03/2022 03:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 03:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,25,Cubic Meters/Hour,Low
+02/03/2022 03:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,3,MMBTU/Hour,Low
+02/03/2022 03:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0.5,Percent,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,3500,Barrels/Hour,Normal
+02/03/2022 03:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,73,Degrees Fahrenheit,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,850,Barrels/Hour,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,666,Degrees Fahrenheit,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,3300,Pounds/Hour,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,250,Cubic meters/Hour,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,500,RPM,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,67,Degrees Fahrenheit,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,84,Degrees Fahrenheit,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,310,Degrees Fahrenheit,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 03:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,20,Cubic Meters/Hour,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,2,MMBTU/Hour,Low
+02/03/2022 03:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0.3,Percent,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,3300,Barrels/Hour,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,71,Degrees Fahrenheit,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,800,Barrels/Hour,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,664,Degrees Fahrenheit,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,3100,Pounds/Hour,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,240,Cubic meters/Hour,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,480,RPM,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,64,Degrees Fahrenheit,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,81,Degrees Fahrenheit,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,305,Degrees Fahrenheit,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 03:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,15,Cubic Meters/Hour,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,1,MMBTU/Hour,Low
+02/03/2022 03:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0.2,Percent,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,3100,Barrels/Hour,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,69,Degrees Fahrenheit,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,750,Barrels/Hour,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,662,Degrees Fahrenheit,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,2900,Pounds/Hour,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,230,Cubic meters/Hour,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,460,RPM,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,61,Degrees Fahrenheit,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,78,Degrees Fahrenheit,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,300,Degrees Fahrenheit,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 04:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,10,Cubic Meters/Hour,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 04:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0.1,Percent,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,2900,Barrels/Hour,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,67,Degrees Fahrenheit,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,700,Barrels/Hour,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,660,Degrees Fahrenheit,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,2700,Pounds/Hour,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,220,Cubic meters/Hour,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,440,RPM,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,58,Degrees Fahrenheit,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,75,Degrees Fahrenheit,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,295,Degrees Fahrenheit,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 04:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,5,Cubic Meters/Hour,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 04:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0.05,Percent,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,2700,Barrels/Hour,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,65,Degrees Fahrenheit,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,650,Barrels/Hour,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,658,Degrees Fahrenheit,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,2500,Pounds/Hour,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,210,Cubic meters/Hour,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,420,RPM,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,55,Degrees Fahrenheit,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,72,Degrees Fahrenheit,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,290,Degrees Fahrenheit,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 04:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,3,Cubic Meters/Hour,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 04:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0.02,Percent,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,2500,Barrels/Hour,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,63,Degrees Fahrenheit,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,600,Barrels/Hour,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,656,Degrees Fahrenheit,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,2300,Pounds/Hour,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,200,Cubic meters/Hour,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,400,RPM,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,52,Degrees Fahrenheit,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,69,Degrees Fahrenheit,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,285,Degrees Fahrenheit,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 04:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,1,Cubic Meters/Hour,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 04:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0.01,Percent,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,2300,Barrels/Hour,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,61,Degrees Fahrenheit,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,550,Barrels/Hour,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,654,Degrees Fahrenheit,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,2100,Pounds/Hour,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,190,Cubic meters/Hour,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,380,RPM,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,49,Degrees Fahrenheit,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,66,Degrees Fahrenheit,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,280,Degrees Fahrenheit,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 05:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 05:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,2100,Barrels/Hour,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,59,Degrees Fahrenheit,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,500,Barrels/Hour,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,652,Degrees Fahrenheit,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,1900,Pounds/Hour,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,180,Cubic meters/Hour,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,360,RPM,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,46,Degrees Fahrenheit,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,63,Degrees Fahrenheit,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,275,Degrees Fahrenheit,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 05:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 05:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,1900,Barrels/Hour,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,57,Degrees Fahrenheit,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,450,Barrels/Hour,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,650,Degrees Fahrenheit,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,1700,Pounds/Hour,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,170,Cubic meters/Hour,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,340,RPM,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,43,Degrees Fahrenheit,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,60,Degrees Fahrenheit,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,270,Degrees Fahrenheit,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 05:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 05:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,1700,Barrels/Hour,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,55,Degrees Fahrenheit,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,400,Barrels/Hour,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,648,Degrees Fahrenheit,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,1500,Pounds/Hour,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,160,Cubic meters/Hour,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,320,RPM,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,40,Degrees Fahrenheit,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,60,Degrees Fahrenheit,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,275,Degrees Fahrenheit,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 05:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 05:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,1500,Barrels/Hour,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,53,Degrees Fahrenheit,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,350,Barrels/Hour,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,646,Degrees Fahrenheit,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,1300,Pounds/Hour,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,150,Cubic meters/Hour,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,300,RPM,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,37,Degrees Fahrenheit,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,54,Degrees Fahrenheit,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,260,Degrees Fahrenheit,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 06:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 06:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,1300,Barrels/Hour,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,51,Degrees Fahrenheit,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,300,Barrels/Hour,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,644,Degrees Fahrenheit,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,1100,Pounds/Hour,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,140,Cubic meters/Hour,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,280,RPM,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,34,Degrees Fahrenheit,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,51,Degrees Fahrenheit,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,255,Degrees Fahrenheit,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 06:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 06:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,1100,Barrels/Hour,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,49,Degrees Fahrenheit,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,250,Barrels/Hour,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,642,Degrees Fahrenheit,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,900,Pounds/Hour,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,130,Cubic meters/Hour,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,260,RPM,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,31,Degrees Fahrenheit,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,48,Degrees Fahrenheit,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,250,Degrees Fahrenheit,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 06:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 06:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,900,Barrels/Hour,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,47,Degrees Fahrenheit,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,200,Barrels/Hour,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,640,Degrees Fahrenheit,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,700,Pounds/Hour,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,120,Cubic meters/Hour,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,240,RPM,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,28,Degrees Fahrenheit,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,45,Degrees Fahrenheit,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,245,Degrees Fahrenheit,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 06:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 06:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,700,Barrels/Hour,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,45,Degrees Fahrenheit,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,150,Barrels/Hour,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,638,Degrees Fahrenheit,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,500,Pounds/Hour,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,110,Cubic meters/Hour,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,220,RPM,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,25,Degrees Fahrenheit,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,42,Degrees Fahrenheit,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,240,Degrees Fahrenheit,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 07:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 07:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,500,Barrels/Hour,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,43,Degrees Fahrenheit,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,100,Barrels/Hour,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,636,Degrees Fahrenheit,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,300,Pounds/Hour,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,100,Cubic meters/Hour,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,200,RPM,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,22,Degrees Fahrenheit,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,39,Degrees Fahrenheit,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,235,Degrees Fahrenheit,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 07:15:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 07:15:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,300,Barrels/Hour,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,41,Degrees Fahrenheit,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,50,Barrels/Hour,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,634,Degrees Fahrenheit,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,100,Pounds/Hour,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,90,Cubic meters/Hour,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,180,RPM,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,19,Degrees Fahrenheit,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,36,Degrees Fahrenheit,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,230,Degrees Fahrenheit,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 07:30:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 07:30:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,100,Barrels/Hour,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,39,Degrees Fahrenheit,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,20,Barrels/Hour,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,630,Degrees Fahrenheit,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,50,Pounds/Hour,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,80,Cubic meters/Hour,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,160,RPM,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,16,Degrees Fahrenheit,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,33,Degrees Fahrenheit,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,225,Degrees Fahrenheit,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 07:45:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 07:45:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU101,Crude Oil Flow Rate,50,Barrels/Hour,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU102,Crude Oil Temperature,37,Degrees Fahrenheit,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU103,Bottom Product Flow Rate,10,Barrels/Hour,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU104,Bottom Product Temperature,626,Degrees Fahrenheit,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU105,Overhead Vapor Flow Rate,25,Pounds/Hour,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU106,Furnace Fuel Gas Flow,70,Cubic meters/Hour,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU107,Furnace Air Blower Speed,140,RPM,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU108,Desalter Oil Outlet Temperature,13,Degrees Fahrenheit,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU109,Desalter Water Outlet Temperature,30,Degrees Fahrenheit,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU110,Preheat Train Outlet Temperature,220,Degrees Fahrenheit,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU111,Naphtha Reboiler Duty,0,MMBTU/Hour,Normal
+02/03/2022 08:00:00,Crude Distillation Unit,CDU112,Kerosene Pumparound Flow,0,Cubic Meters/Hour,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU113,Diesel Reboiler Duty,0,MMBTU/Hour,Low
+02/03/2022 08:00:00,Crude Distillation Unit,CDU114,Residue Column Bottoms Level,0,Percent,Low

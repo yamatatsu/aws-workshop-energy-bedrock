@@ -1,0 +1,10 @@
+pypdf
+jq
+botocore
+boto3
+awscli
+anthropic
+streamlit
+langchain
+openai-whisper
+pydub
